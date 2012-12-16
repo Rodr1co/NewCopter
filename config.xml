@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.bigdogmultimedia.newcopter" version = "1.0.0">
-<name>Crazy Copter</name>
+<name>New Copter</name>
 <description>This is my 3rd phonegap game. Built for my iPhone 4S</description>
 <author href="http://www.biznetkc.com/public/apps/newcopter/" email="rod@prowebmaker.com">Roderick Snyder</author>
 <feature name="http://api.phonegap.com/1.0/device" />
